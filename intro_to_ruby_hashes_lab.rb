@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-
+	actor = ["Taye Diggs"]
 end
 
 def monopoly
